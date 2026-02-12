@@ -1,4 +1,5 @@
 {
+  "description": "Pipeline-stage scaffold intended for remote chunking of large artifacts before indexing. Current fetch behavior is a placeholder.",
   "domainCategory": "Data & Analytics",
   "subjectiveTechnologyElement": "Pipelines",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "Chunker Remote",
-      "text": "A Subjective data source for Chunker Remote. This data source is currently a skeleton (fetch returns no items).",
+      "text": "Pipeline-stage scaffold intended for remote chunking of large artifacts before indexing. Current fetch behavior is a placeholder.",
       "image": {
         "src": "/subjective_chunker_remote_datasource/icon.svg",
         "alt": "Chunker Remote icon"
